@@ -22,7 +22,7 @@ port_max = 65535
 # Step 2: pip install python-nmap
 
 
-# Basic user interface header
+
 print(r"""
 ______  ____           ____                  ______   _______
 |     \ |  |           |  |                  |  _  \  |  _   \
